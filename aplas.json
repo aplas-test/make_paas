@@ -1,23 +1,27 @@
 {
-  "id": "make_paas",
-  "name": "Make PaaS",
-  "categoryId": "governance",
-  "description": "Networked high-level implementation",
-  "investment_24m": "665",
-  "hostedtype": "OnPremise",
-  "vendor_contact_name": "Alexa Horning",
-  "licensing_cost": "59",
-  "status_color": "#00FFFF",
-  "type": "InHouseDev",
-  "support_cost": "408",
-  "deployment_date": "28/1/17",
-  "end_of_maintenance": "15/11/17",
-  "department": "Training",
-  "status": "Tacticle",
-  "end_of_life": "1/12/18",
-  "vendor_email": "Alexa.Horning@Citrix.com",
-  "months_to_renew_support": "34",
-  "sme_email": "Pooh.Mosedale@memento.net.au",
-  "vendor_phone": "+353 549 986 2181",
-  "investment_number": "198"
+  "applications": [
+    {
+      "id": "make_paas",
+      "name": "Make PaaS",
+      "categoryId": "governance",
+      "description": "Networked high-level implementation",
+      "investment_24m": "665",
+      "hostedtype": "OnPremise",
+      "vendor_contact_name": "Alexa Horning",
+      "licensing_cost": "59",
+      "status_color": "#00FFFF",
+      "type": "InHouseDev",
+      "support_cost": "408",
+      "deployment_date": "28/1/17",
+      "end_of_maintenance": "15/11/17",
+      "department": "Training",
+      "status": "Tacticle",
+      "end_of_life": "1/12/18",
+      "vendor_email": "Alexa.Horning@Citrix.com",
+      "months_to_renew_support": "34",
+      "sme_email": "Pooh.Mosedale@memento.net.au",
+      "vendor_phone": "+353 549 986 2181",
+      "investment_number": "198"
+    }
+  ]
 }
