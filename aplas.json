@@ -9,14 +9,13 @@
       "description": "Networked high-level implementation",
       "categoryId": "governance",
       "applicationSize": "medium",
-      "status": "standard",
       "licensing_cost": "59",
       "vendor_phone": "+353 549 986 2181",
       "status_color": "#00FFFF",
       "department": "Training",
       "hostedtype": "OnPremise",
       "deployment_date": "28/1/17",
-      "investment_number": "198",
+      "investment_number": 198,
       "type": "InHouseDev",
       "sme_email": "Pooh.Mosedale@memento.net.au",
       "investment_24m": "665",
@@ -24,11 +23,11 @@
       "support_cost": "408",
       "vendor_contact_name": "Alexa Horning",
       "end_of_life": "1/12/18",
-      "months_to_renew_support": "34",
+      "months_to_renew_support": 34,
       "end_of_maintenance": "15/11/17",
       "integrations": [
         {
-          "assetId": "int-114",
+          "id": "int-114",
           "name": "INT-114",
           "shortName": null,
           "version": "3.1",
@@ -36,7 +35,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "granular_dm",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Preston Shortland",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -49,7 +47,7 @@
           "golive_date": "7/5/08"
         },
         {
-          "assetId": "int-242",
+          "id": "int-242",
           "name": "INT-242",
           "shortName": null,
           "version": "0.72",
@@ -57,7 +55,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "b2c_beta",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -70,7 +67,7 @@
           "golive_date": "2/6/05"
         },
         {
-          "assetId": "int-170",
+          "id": "int-170",
           "name": "INT-170",
           "shortName": null,
           "version": "0.22",
@@ -78,7 +75,6 @@
           "payload": "Future Movement - ASN Descrepancy",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gerri Gwyllt",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -91,7 +87,7 @@
           "golive_date": "27/3/10"
         },
         {
-          "assetId": "int-241",
+          "id": "int-241",
           "name": "INT-241",
           "shortName": null,
           "version": "0.4.4",
@@ -99,7 +95,6 @@
           "payload": "Product Data Migration",
           "targetApplicationId": "social_innovation",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Myranda McChruiter",
           "status_color": "#00FF00",
           "department": "App Control",
@@ -112,7 +107,7 @@
           "golive_date": "23/9/15"
         },
         {
-          "assetId": "int-072",
+          "id": "int-072",
           "name": "INT-072",
           "shortName": null,
           "version": "0.3.1",
@@ -120,7 +115,6 @@
           "payload": "Product UPC",
           "targetApplicationId": "granular_dm",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "decom_date": "2/5/15",
           "status_color": "#FF0000",
@@ -134,7 +128,7 @@
           "golive_date": "4/9/11"
         },
         {
-          "assetId": "int-285",
+          "id": "int-285",
           "name": "INT-285",
           "shortName": null,
           "version": "3.1",
@@ -142,7 +136,6 @@
           "payload": "Supplier Return - Damaged Product",
           "targetApplicationId": "b2c_beta",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Myranda McChruiter",
           "status_color": "#00FF00",
           "department": "Integration",
